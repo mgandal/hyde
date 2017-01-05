@@ -1,20 +1,19 @@
 # Dependencies
 
-highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            FunctionalGenomics
+tagline:          'Pipeline and code for genomic analysis'
+description:      'Pipeline and code for genomic analysis'
 url:              https://mgandal.github.io/hyde
 baseurl:          /hyde/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Mike Gandal'
+  url:            https://twitter.com/mikejg84
 
 paginate:         5
 
