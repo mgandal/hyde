@@ -5,9 +5,9 @@
 permalink:        pretty
 
 # Setup
-title:            FunctionalGenomics
+title:            Functional Genomics
 tagline:          'Pipeline and code for genomic analysis'
-description:      'Pipeline and code for genomic analysis'
+description:      'Pipeline and code for genomic analysis with relevance to psychiatric disease'
 url:              https://mgandal.github.io/hyde
 baseurl:          /hyde/
 
